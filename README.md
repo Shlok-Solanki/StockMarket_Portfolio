@@ -91,7 +91,7 @@ Place your screenshot(s) in `docs/screenshots/`.
 - If the batch script can’t download the JAR, manually download `jfreechart-1.5.4.jar` to `lib/` and re-run.
 - If the window does not appear, run from terminal to see errors:
   ```powershell
-  java -cp ".;lib/jfreechart-1.5.4.jar" GamifiedPortfolioGUI
+  java -cp ".;lib/jfreechart-1.5.4.jar" GamifiedPortfolioGUI s
   ```
 
 ## License
